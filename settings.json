@@ -1,8 +1,8 @@
 {
-	"prefix": ".",
-	"ownerNumber": ["6285888258313@s.whatsapp.net","6289607997717@s.whatsapp.net"],// ganti nomor lu disini
-	"targetpc" : "6285888258313",// ganti no lu
-	"ownerNumberr": "+628588825813",// ganti no lu
+	"prefix": "#",
+	"ownerNumber": ["6285888258313@s.whatsapp.net","6289607997717@s.whatsapp.net"],
+	"targetpc" : "6285888258313",
+	"ownerNumberr": "+628588825813",
 	"cr": "@Trito",
 	"baileys_version": "3.5.2",
 	"bot_version": "0.0.7",
