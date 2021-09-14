@@ -177,7 +177,7 @@ ${petik}│ ⤷ ${prefix}=> [eval async]
 │ ⤷ ${prefix}> [eval]
 │ ⤷ ${prefix}$ <termux cmd>${petik}
 │
-╰──「 *Alphabot* 」
+╰──「 *𝓛𝓸𝓵𝓲𝓽𝓪 𝓑𝓸𝓽* 」
 `
 }
 
